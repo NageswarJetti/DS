@@ -14,7 +14,7 @@ There are five methods used to identify features to remove:
 
 ## Usage
 
-Refer to the [Feature Selector Usage notebook](https://github.com/WillKoehrsen/feature-selector/blob/master/Feature%20Selector%20Usage.ipynb) for how to use
+Refer to the [Feature Selector Usage notebook](https://github.com/NageswarJetti/DS/blob/master/feature-selector-master/Feature%20Selector%20Usage.ipynb) for how to use
 
 ## Visualizations
 
