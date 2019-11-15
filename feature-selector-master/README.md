@@ -42,6 +42,3 @@ scikit-learn==0.19.1
 
 ```
 
-## Contact
-
-Any questions can be directed to wjk68@case.edu!
